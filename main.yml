@@ -3,5 +3,5 @@
 - name: System Configuration
   hosts: all
 
-  - roles:
-    acme-motd
+  roles:
+  - acme-motd
